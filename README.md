@@ -1,26 +1,13 @@
 # escaner
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplicacion de flutter que se conecta a una API la cual recorta imagenes con opencv, ademas de poder guardar los recortes en pdf o imagenes.
 
 ## Imagenes de muestra
 Imagen de la pantalla principal de la app 
-![main](assets/main.png)
+    ![main](assets/main.png)
 
 Imagen del apartado de seleccion de imagen
-![imagen](assets/imagen.png)
+    ![imagen](assets/imagen.png)
 
 Imagen obtenidas de la camara
-![camera](assets/camera.jpg)
+    ![camera](assets/camera.jpg)
