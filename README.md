@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Imagenes de muestra
+    Imagen de la pantalla principal de la app 
+    ![main](assets/main.png)
+
+    Imagen del apartado de seleccion de imagen
+    ![imagen](assets/imagen.png)
+
+    Imagen obtenidas de la camara
+    ![camera](assets/camera.jpg)

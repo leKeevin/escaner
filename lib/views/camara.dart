@@ -21,6 +21,7 @@ class _CamaraState extends State<Camara> {
     if (imagen != null) {
       setState(() {
         imagen0 = File(imagen.path);
+        imagenProcesada = null;
       });
     }
   }
