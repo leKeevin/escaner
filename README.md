@@ -16,11 +16,11 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Imagenes de muestra
-    Imagen de la pantalla principal de la app 
-    ![main](assets/main.png)
+Imagen de la pantalla principal de la app 
+![main](assets/main.png)
 
-    Imagen del apartado de seleccion de imagen
-    ![imagen](assets/imagen.png)
+Imagen del apartado de seleccion de imagen
+![imagen](assets/imagen.png)
 
-    Imagen obtenidas de la camara
-    ![camera](assets/camera.jpg)
+Imagen obtenidas de la camara
+![camera](assets/camera.jpg)
